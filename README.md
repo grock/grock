@@ -3,7 +3,8 @@
 I'm pretty new to Git, GitHub, and contribution to open source software in general.
 
 I hope to collaborate on some projects in the future.
-Nowadays I code mostly in Python and GDScript (Godot Engine), but I know my way around other languages such as C++, C# and Javascript.
+Nowadays I am particularly interested in making small games with Godot and GDScript.
+But I know my way around a few other languages such as Python, C++, C# and Javascript.
 
 <!--
 **grock/grock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
