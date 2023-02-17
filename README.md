@@ -1,4 +1,9 @@
-### Hi there 👋
+### The GrocK as arrived on GitHub
+
+I'm pretty new to Git, GitHub, and contribution to open source software in general.
+
+I hope to collaborate on some projects in the future.
+Nowadays I code mostly in Python and GDScript (Godot Engine), but I know my way around other languages such as C++, C# and Javascript.
 
 <!--
 **grock/grock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
