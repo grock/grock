@@ -1,4 +1,4 @@
-### The GrocK as arrived on GitHub
+### The GrocK has arrived on GitHub
 
 I'm pretty new to Git, GitHub, and contribution to open source software in general.
 
